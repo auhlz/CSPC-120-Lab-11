@@ -5,7 +5,7 @@
 // @kevinwortman
 //
 // Lab 11-01
-// Partners:
+// Partners: @auhlz
 //
 // Object-oriented State class.
 //

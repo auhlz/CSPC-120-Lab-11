@@ -4,10 +4,10 @@
 // alexlabitigan@csu.fullerton.edu
 // @auhlz
 //
-// Lab qq-01
+// Lab 11-02
 // Partners: @dianasuceli
 //
-// States
+// Hilo game 
 //
 
 #include "hilo.h"

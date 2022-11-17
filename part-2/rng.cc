@@ -5,7 +5,7 @@
 // @tuffytitan
 //
 // Lab 00-00
-// Partners:
+// Partners: @auhlz
 //
 // Calculates the BMR of a person using the Mifflin St Jeor equation.
 //

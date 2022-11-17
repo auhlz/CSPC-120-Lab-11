@@ -5,7 +5,7 @@
 // @kevinwortman
 //
 // Lab 11-02
-// Partners:
+// Partners: @auhlz
 //
 // Object-oriented hilo game.
 //

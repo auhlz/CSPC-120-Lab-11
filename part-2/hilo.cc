@@ -7,7 +7,7 @@
 // Lab 11-02
 // Partners: @dianasuceli
 //
-// Hilo game 
+// Hilo game
 //
 
 #include "hilo.h"
